@@ -19,7 +19,7 @@ Welcome to my first attempt at learning to code! Basically I am new to everythin
 
 This me trying use whatever **markdown** I learned while trying to use *obsidian*:
 - Life is empty without bullet points
--[] No task is complete without a checkbox
+- [ ] No task is complete without a checkbox
 
 ## H2s are cute
 ### H3s are overrated
