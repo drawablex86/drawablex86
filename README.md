@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In the last 4 years I have taught myself to draw, paint, code, and design.
 
-[I have a blog](https://blog.rahulrajeev.net/)
+[I have a blog](https://blog.rahulrajeev.net/) and a [notes section](https://notes.drawable.in/)
 
 That's enough tinkering for today!
 Chiao :P
