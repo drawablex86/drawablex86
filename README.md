@@ -1,8 +1,6 @@
 ### Heyy all 👋
 
-
-
-Here are some ideas to get you started:
+# I am Rahul Rajeev
 
 - 🔭 I’m currently working on bulding a portfoli website and a blog for myself
 - 🌱 I’m currently learning UX Design
