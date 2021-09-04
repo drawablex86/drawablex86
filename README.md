@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In the last 4 years I have taught myself to draw, paint, code, and design.
 
-[I have a blog](https://blog.rahulrajeev.net/) and a [notes section](https://notes.drawable.in/)
+[I have a blog](https://blog.rahulrajeev.net/) and a [digital garden](https://garden.rahulrajeev.net/)
 
 That's enough tinkering for today!
 Chiao :P
